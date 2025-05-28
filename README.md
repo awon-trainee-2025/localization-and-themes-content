@@ -1,7 +1,5 @@
 # Flutter Theming & Localization Guide
 
-![Theming and Localization](https://miro.medium.com/v2/resize:fit:1400/1*X-0uGQHwJcdMPjAB-2zLqA.png)
-
 Complete implementation guide for app theming and multilingual support using `easy_localization`.
 
 ## Table of Contents
